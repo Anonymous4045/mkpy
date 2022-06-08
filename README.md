@@ -1,2 +1,2 @@
 # mkpy
-A simple command line tool to automatically create Python projects.
+A simple command line tool to create python projects.
